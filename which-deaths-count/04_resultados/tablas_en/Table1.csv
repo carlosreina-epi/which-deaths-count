@@ -1,0 +1,25 @@
+Crisis,Population,Measure,Main estimate (95% prediction interval),Range across baseline specifications
+"Chinese famine, 1959–1961",World,Excess deaths (millions),19.9 (19.1 to 20.4),5.6 to 19.9
+"Chinese famine, 1959–1961",World,P-score (%),14.7 (14.0 to 15.2),3.8 to 14.7
+"Chinese famine, 1959–1961",World,"Δe0, period mean (years)",-3.49 (-3.59 to -3.35),-3.49 to -0.95
+"Chinese famine, 1959–1961",World,"Δe0, worst year (years)",-4.94 (-5.07 to -4.79),-4.94 to -2.40
+"Chinese famine, 1959–1961",World excluding China,Excess deaths (millions),1.0 (0.5 to 1.3),-9.6 to 1.0
+"Chinese famine, 1959–1961",World excluding China,P-score (%),0.9 (0.5 to 1.2),-8.4 to 0.9
+"Chinese famine, 1959–1961",World excluding China,"Δe0, period mean (years)",-0.28 (-0.34 to -0.17),-0.28 to 2.13
+"Chinese famine, 1959–1961",World excluding China,"Δe0, worst year (years)",-0.35 (-0.43 to -0.24),-0.35 to 1.68
+"Chinese famine, 1959–1961",China,Excess deaths (millions),18.9 (18.4 to 19.4),15.2 to 18.9
+"Chinese famine, 1959–1961",China,P-score (%),60.7 (58.0 to 63.2),43.6 to 60.7
+"Chinese famine, 1959–1961",China,"Δe0, period mean (years)",-12.11 (-12.54 to -11.65),-12.11 to -9.20
+"Chinese famine, 1959–1961",China,"Δe0, worst year (years)",-16.71 (-17.22 to -16.20),-16.71 to -13.80
+"COVID-19, 2020–2021",World,Excess deaths (millions),15.6 (15.2 to 15.8),10.6 to 15.6
+"COVID-19, 2020–2021",World,P-score (%),13.3 (12.9 to 13.5),8.7 to 13.3
+"COVID-19, 2020–2021",World,"Δe0, period mean (years)",-1.56 (-1.58 to -1.48),-1.56 to -0.80
+"COVID-19, 2020–2021",World,"Δe0, worst year (years)",-2.21 (-2.23 to -2.11),-2.21 to -1.30
+"COVID-19, 2020–2021",World excluding China,Excess deaths (millions),15.2 (14.9 to 15.3),11.1 to 15.3
+"COVID-19, 2020–2021",World excluding China,P-score (%),15.7 (15.3 to 15.8),11.0 to 15.8
+"COVID-19, 2020–2021",World excluding China,"Δe0, period mean (years)",-1.92 (-1.93 to -1.84),-1.92 to -1.15
+"COVID-19, 2020–2021",World excluding China,"Δe0, worst year (years)",-2.70 (-2.72 to -2.59),-2.70 to -1.79
+"COVID-19, 2020–2021",China,Excess deaths (millions),0.4 (0.2 to 0.6),-0.5 to 0.4
+"COVID-19, 2020–2021",China,P-score (%),2.0 (0.9 to 3.1),-2.4 to 2.0
+"COVID-19, 2020–2021",China,"Δe0, period mean (years)",-0.14 (-0.25 to -0.02),-0.14 to 0.51
+"COVID-19, 2020–2021",China,"Δe0, worst year (years)",-0.23 (-0.36 to -0.09),-0.23 to 0.48
