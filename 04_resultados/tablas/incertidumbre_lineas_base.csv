@@ -1,0 +1,325 @@
+crisis,spec,unidad,metrica,valor,label
+covid,A,África,exceso,1348054.96951428,Lineal 2015–2019 (principal)
+covid,A,América del Norte,exceso,1131918.5851556,Lineal 2015–2019 (principal)
+covid,A,América Latina y el Caribe,exceso,2217812.34714522,Lineal 2015–2019 (principal)
+covid,A,Asia,exceso,8193092.85835633,Lineal 2015–2019 (principal)
+covid,A,Europa,exceso,2735255.52212873,Lineal 2015–2019 (principal)
+covid,A,Oceanía,exceso,6907.53051455598,Lineal 2015–2019 (principal)
+covid,A,Mundo,exceso,15633041.8128147,Lineal 2015–2019 (principal)
+covid,A,Mundo sin China,exceso,15215527.4507532,Lineal 2015–2019 (principal)
+covid,A,China,exceso,417514.362061542,Lineal 2015–2019 (principal)
+covid,A,África,p_score,6.05013448510028,Lineal 2015–2019 (principal)
+covid,A,América del Norte,p_score,17.7673374128235,Lineal 2015–2019 (principal)
+covid,A,América Latina y el Caribe,p_score,26.55622954107,Lineal 2015–2019 (principal)
+covid,A,Asia,p_score,12.8085176915843,Lineal 2015–2019 (principal)
+covid,A,Europa,p_score,17.0045581069125,Lineal 2015–2019 (principal)
+covid,A,Oceanía,p_score,1.17798459784779,Lineal 2015–2019 (principal)
+covid,A,Mundo,p_score,13.2887299035509,Lineal 2015–2019 (principal)
+covid,A,Mundo sin China,p_score,15.7042503894453,Lineal 2015–2019 (principal)
+covid,A,China,p_score,2.0117880911036,Lineal 2015–2019 (principal)
+covid,A,África,d_e0_medio,-1.03531690705577,Lineal 2015–2019 (principal)
+covid,A,América del Norte,d_e0_medio,-2.10846662415926,Lineal 2015–2019 (principal)
+covid,A,América Latina y el Caribe,d_e0_medio,-2.8894969918941,Lineal 2015–2019 (principal)
+covid,A,Asia,d_e0_medio,-1.4091787239172,Lineal 2015–2019 (principal)
+covid,A,Europa,d_e0_medio,-1.85162044178093,Lineal 2015–2019 (principal)
+covid,A,Oceanía,d_e0_medio,-0.194696491154453,Lineal 2015–2019 (principal)
+covid,A,Mundo,d_e0_medio,-1.5588966692545,Lineal 2015–2019 (principal)
+covid,A,Mundo sin China,d_e0_medio,-1.91823900494568,Lineal 2015–2019 (principal)
+covid,A,China,d_e0_medio,-0.140767718681133,Lineal 2015–2019 (principal)
+covid,A,África,d_e0_peor,-1.44553294239824,Lineal 2015–2019 (principal)
+covid,A,América del Norte,d_e0_peor,-2.40195127675253,Lineal 2015–2019 (principal)
+covid,A,América Latina y el Caribe,d_e0_peor,-3.67831499561785,Lineal 2015–2019 (principal)
+covid,A,Asia,d_e0_peor,-2.17164827891804,Lineal 2015–2019 (principal)
+covid,A,Europa,d_e0_peor,-2.27422740094156,Lineal 2015–2019 (principal)
+covid,A,Oceanía,d_e0_peor,-0.487300046902263,Lineal 2015–2019 (principal)
+covid,A,Mundo,d_e0_peor,-2.20686630847325,Lineal 2015–2019 (principal)
+covid,A,Mundo sin China,d_e0_peor,-2.69818392115317,Lineal 2015–2019 (principal)
+covid,A,China,d_e0_peor,-0.226306559712242,Lineal 2015–2019 (principal)
+covid,B,África,exceso,1277948.6114727,Lineal 2010–2019
+covid,B,América del Norte,exceso,1069669.21314839,Lineal 2010–2019
+covid,B,América Latina y el Caribe,exceso,2322136.4288383,Lineal 2010–2019
+covid,B,Asia,exceso,8203218.48039784,Lineal 2010–2019
+covid,B,Europa,exceso,2754693.48337461,Lineal 2010–2019
+covid,B,Oceanía,exceso,1155.5454007528,Lineal 2010–2019
+covid,B,Mundo,exceso,15628821.7626325,Lineal 2010–2019
+covid,B,Mundo sin China,exceso,15292882.1509813,Lineal 2010–2019
+covid,B,China,exceso,335939.611651205,Lineal 2010–2019
+covid,B,África,p_score,5.71750424057967,Lineal 2010–2019
+covid,B,América del Norte,p_score,16.627759387993,Lineal 2010–2019
+covid,B,América Latina y el Caribe,p_score,28.1571472883477,Lineal 2010–2019
+covid,B,Asia,p_score,12.8263777696752,Lineal 2010–2019
+covid,B,Europa,p_score,17.1461199040769,Lineal 2010–2019
+covid,B,Oceanía,p_score,0.195148169023502,Lineal 2010–2019
+covid,B,Mundo,p_score,13.2846661372055,Lineal 2010–2019
+covid,B,Mundo sin China,p_score,15.7967017051132,Lineal 2010–2019
+covid,B,China,p_score,1.61238335963862,Lineal 2010–2019
+covid,B,África,d_e0_medio,-0.975784905589467,Lineal 2010–2019
+covid,B,América del Norte,d_e0_medio,-1.96676335474516,Lineal 2010–2019
+covid,B,América Latina y el Caribe,d_e0_medio,-3.06681206692452,Lineal 2010–2019
+covid,B,Asia,d_e0_medio,-1.39290575302817,Lineal 2010–2019
+covid,B,Europa,d_e0_medio,-1.9357308927417,Lineal 2010–2019
+covid,B,Oceanía,d_e0_medio,-0.144612972605586,Lineal 2010–2019
+covid,B,Mundo,d_e0_medio,-1.55124115073141,Lineal 2010–2019
+covid,B,Mundo sin China,d_e0_medio,-1.92298080599519,Lineal 2010–2019
+covid,B,China,d_e0_medio,-0.0782347499625899,Lineal 2010–2019
+covid,B,África,d_e0_peor,-1.38568265318457,Lineal 2010–2019
+covid,B,América del Norte,d_e0_peor,-2.23537879162967,Lineal 2010–2019
+covid,B,América Latina y el Caribe,d_e0_peor,-3.87926603124453,Lineal 2010–2019
+covid,B,Asia,d_e0_peor,-2.1526777524748,Lineal 2010–2019
+covid,B,Europa,d_e0_peor,-2.36620668103525,Lineal 2010–2019
+covid,B,Oceanía,d_e0_peor,-0.429569835205214,Lineal 2010–2019
+covid,B,Mundo,d_e0_peor,-2.19898472150396,Lineal 2010–2019
+covid,B,Mundo sin China,d_e0_peor,-2.7047188225748,Lineal 2010–2019
+covid,B,China,d_e0_peor,-0.155345183625869,Lineal 2010–2019
+covid,C,África,exceso,103679.446590628,Media 2017–2019
+covid,C,América del Norte,exceso,1006804.61763259,Media 2017–2019
+covid,C,América Latina y el Caribe,exceso,2059211.369077,Media 2017–2019
+covid,C,Asia,exceso,5440765.73743588,Media 2017–2019
+covid,C,Europa,exceso,2037301.54961789,Media 2017–2019
+covid,C,Oceanía,exceso,-18402.6857409694,Media 2017–2019
+covid,C,Mundo,exceso,10629360.034613,Media 2017–2019
+covid,C,Mundo sin China,exceso,11148113.4348106,Media 2017–2019
+covid,C,China,exceso,-518753.400197581,Media 2017–2019
+covid,C,África,p_score,0.440705660563527,Media 2017–2019
+covid,C,América del Norte,p_score,15.499084396953,Media 2017–2019
+covid,C,América Latina y el Caribe,p_score,24.1975949471204,Media 2017–2019
+covid,C,Asia,p_score,8.15483277837196,Media 2017–2019
+covid,C,Europa,p_score,12.1388040807926,Media 2017–2019
+covid,C,Oceanía,p_score,-3.00847074287888,Media 2017–2019
+covid,C,Mundo,p_score,8.66676743248938,Media 2017–2019
+covid,C,Mundo sin China,p_score,11.0426154269682,Media 2017–2019
+covid,C,China,p_score,-2.39170782279534,Media 2017–2019
+covid,C,África,d_e0_medio,-0.058055967384437,Media 2017–2019
+covid,C,América del Norte,d_e0_medio,-1.9389367724739,Media 2017–2019
+covid,C,América Latina y el Caribe,d_e0_medio,-2.58571812120513,Media 2017–2019
+covid,C,Asia,d_e0_medio,-0.679297636467467,Media 2017–2019
+covid,C,Europa,d_e0_medio,-1.32781029045313,Media 2017–2019
+covid,C,Oceanía,d_e0_medio,0.331129152260743,Media 2017–2019
+covid,C,Mundo,d_e0_medio,-0.796427524265766,Media 2017–2019
+covid,C,Mundo sin China,d_e0_medio,-1.1529818215726,Media 2017–2019
+covid,C,China,d_e0_medio,0.508994106286252,Media 2017–2019
+covid,C,África,d_e0_peor,-0.289548194316488,Media 2017–2019
+covid,C,América del Norte,d_e0_peor,-2.20305846250842,Media 2017–2019
+covid,C,América Latina y el Caribe,d_e0_peor,-3.31727846192786,Media 2017–2019
+covid,C,Asia,d_e0_peor,-1.30119008734997,Media 2017–2019
+covid,C,Europa,d_e0_peor,-1.64655231942324,Media 2017–2019
+covid,C,Oceanía,d_e0_peor,0.138376575458381,Media 2017–2019
+covid,C,Mundo,d_e0_peor,-1.29958628420248,Media 2017–2019
+covid,C,Mundo sin China,d_e0_peor,-1.78781486073191,Media 2017–2019
+covid,C,China,d_e0_peor,0.475069042313734,Media 2017–2019
+covid,D,África,exceso,1227776.44920113,Lineal 2012–2019
+covid,D,América del Norte,exceso,1064909.5745091,Lineal 2012–2019
+covid,D,América Latina y el Caribe,exceso,2244713.90240158,Lineal 2012–2019
+covid,D,Asia,exceso,8187919.22599861,Lineal 2012–2019
+covid,D,Europa,exceso,2696907.17591236,Lineal 2012–2019
+covid,D,Oceanía,exceso,2301.08883575723,Lineal 2012–2019
+covid,D,Mundo,exceso,15424527.4168586,Lineal 2012–2019
+covid,D,Mundo sin China,exceso,15085542.4015424,Lineal 2012–2019
+covid,D,China,exceso,338985.015316196,Lineal 2012–2019
+covid,D,África,p_score,5.48073293874086,Lineal 2012–2019
+covid,D,América del Norte,p_score,16.5415332481444,Lineal 2012–2019
+covid,D,América Latina y el Caribe,p_score,26.9652111174734,Lineal 2012–2019
+covid,D,Asia,p_score,12.7993943627727,Lineal 2012–2019
+covid,D,Europa,p_score,16.7262776403089,Lineal 2012–2019
+covid,D,Oceanía,p_score,0.389360462011083,Lineal 2012–2019
+covid,D,Mundo,p_score,13.0882856317967,Lineal 2012–2019
+covid,D,Mundo sin China,p_score,15.5492293461418,Lineal 2012–2019
+covid,D,China,p_score,1.62723799789528,Lineal 2012–2019
+covid,D,África,d_e0_medio,-0.936851903898095,Lineal 2012–2019
+covid,D,América del Norte,d_e0_medio,-1.93759409839329,Lineal 2012–2019
+covid,D,América Latina y el Caribe,d_e0_medio,-2.92582289705956,Lineal 2012–2019
+covid,D,Asia,d_e0_medio,-1.39814910980245,Lineal 2012–2019
+covid,D,Europa,d_e0_medio,-1.85587060824223,Lineal 2012–2019
+covid,D,Oceanía,d_e0_medio,-0.142706707526223,Lineal 2012–2019
+covid,D,Mundo,d_e0_medio,-1.52118576843326,Lineal 2012–2019
+covid,D,Mundo sin China,d_e0_medio,-1.88539790717851,Lineal 2012–2019
+covid,D,China,d_e0_medio,-0.0917609401948596,Lineal 2012–2019
+covid,D,África,d_e0_peor,-1.34318242700861,Lineal 2012–2019
+covid,D,América del Norte,d_e0_peor,-2.20190373368722,Lineal 2012–2019
+covid,D,América Latina y el Caribe,d_e0_peor,-3.72128319601806,Lineal 2012–2019
+covid,D,Asia,d_e0_peor,-2.15897249572129,Lineal 2012–2019
+covid,D,Europa,d_e0_peor,-2.27698113436915,Lineal 2012–2019
+covid,D,Oceanía,d_e0_peor,-0.427246469336112,Lineal 2012–2019
+covid,D,Mundo,d_e0_peor,-2.16584686017494,Lineal 2012–2019
+covid,D,Mundo sin China,d_e0_peor,-2.66329775413467,Lineal 2012–2019
+covid,D,China,d_e0_peor,-0.16991136432091,Lineal 2012–2019
+hambruna,A,África,exceso,-223499.409192096,Lineal 1950–1957 (principal)
+hambruna,A,América del Norte,exceso,101277.403942996,Lineal 1950–1957 (principal)
+hambruna,A,América Latina y el Caribe,exceso,-12843.3589274064,Lineal 1950–1957 (principal)
+hambruna,A,Asia,exceso,20180771.6216351,Lineal 1950–1957 (principal)
+hambruna,A,Europa,exceso,-142383.003377263,Lineal 1950–1957 (principal)
+hambruna,A,Oceanía,exceso,6865.35791221238,Lineal 1950–1957 (principal)
+hambruna,A,Mundo,exceso,19910188.6119936,Lineal 1950–1957 (principal)
+hambruna,A,Mundo sin China,exceso,976400.232922301,Lineal 1950–1957 (principal)
+hambruna,A,China,exceso,18933788.3790713,Lineal 1950–1957 (principal)
+hambruna,A,África,p_score,-1.12213818654151,Lineal 1950–1957 (principal)
+hambruna,A,América del Norte,p_score,1.9304595869449,Lineal 1950–1957 (principal)
+hambruna,A,América Latina y el Caribe,p_score,-0.147764421062652,Lineal 1950–1957 (principal)
+hambruna,A,Asia,p_score,24.1530395973808,Lineal 1950–1957 (principal)
+hambruna,A,Europa,p_score,-0.815010037438483,Lineal 1950–1957 (principal)
+hambruna,A,Oceanía,p_score,1.4717284830762,Lineal 1950–1957 (principal)
+hambruna,A,Mundo,p_score,14.7106204575177,Lineal 1950–1957 (principal)
+hambruna,A,Mundo sin China,p_score,0.937294787525306,Lineal 1950–1957 (principal)
+hambruna,A,China,p_score,60.7367780287432,Lineal 1950–1957 (principal)
+hambruna,A,África,d_e0_medio,0.282221352661035,Lineal 1950–1957 (principal)
+hambruna,A,América del Norte,d_e0_medio,-0.306704843450452,Lineal 1950–1957 (principal)
+hambruna,A,América Latina y el Caribe,d_e0_medio,0.0128548610731301,Lineal 1950–1957 (principal)
+hambruna,A,Asia,d_e0_medio,-5.3039741444732,Lineal 1950–1957 (principal)
+hambruna,A,Europa,d_e0_medio,-0.169332454828241,Lineal 1950–1957 (principal)
+hambruna,A,Oceanía,d_e0_medio,-0.366594910153651,Lineal 1950–1957 (principal)
+hambruna,A,Mundo,d_e0_medio,-3.49062115927802,Lineal 1950–1957 (principal)
+hambruna,A,Mundo sin China,d_e0_medio,-0.27700580779739,Lineal 1950–1957 (principal)
+hambruna,A,China,d_e0_medio,-12.1120340139797,Lineal 1950–1957 (principal)
+hambruna,A,África,d_e0_peor,0.211722613484611,Lineal 1950–1957 (principal)
+hambruna,A,América del Norte,d_e0_peor,-0.460039141823316,Lineal 1950–1957 (principal)
+hambruna,A,América Latina y el Caribe,d_e0_peor,0.0114402830264311,Lineal 1950–1957 (principal)
+hambruna,A,Asia,d_e0_peor,-7.39163720046288,Lineal 1950–1957 (principal)
+hambruna,A,Europa,d_e0_peor,-0.208757501677738,Lineal 1950–1957 (principal)
+hambruna,A,Oceanía,d_e0_peor,-0.437686588281807,Lineal 1950–1957 (principal)
+hambruna,A,Mundo,d_e0_peor,-4.94201105617099,Lineal 1950–1957 (principal)
+hambruna,A,Mundo sin China,d_e0_peor,-0.351212610596583,Lineal 1950–1957 (principal)
+hambruna,A,China,d_e0_peor,-16.7120865855245,Lineal 1950–1957 (principal)
+hambruna,B,África,exceso,-450439.712684479,Lineal 1953–1957
+hambruna,B,América del Norte,exceso,-57322.9064208483,Lineal 1953–1957
+hambruna,B,América Latina y el Caribe,exceso,-42270.6494087558,Lineal 1953–1957
+hambruna,B,Asia,exceso,19338348.1733422,Lineal 1953–1957
+hambruna,B,Europa,exceso,-218780.827031992,Lineal 1953–1957
+hambruna,B,Oceanía,exceso,-7762.18514408392,Lineal 1953–1957
+hambruna,B,Mundo,exceso,18561771.892652,Lineal 1953–1957
+hambruna,B,Mundo sin China,exceso,66175.2552058697,Lineal 1953–1957
+hambruna,B,China,exceso,18495596.6374461,Lineal 1953–1957
+hambruna,B,África,p_score,-2.23607415302417,Lineal 1953–1957
+hambruna,B,América del Norte,p_score,-1.06057589409074,Lineal 1953–1957
+hambruna,B,América Latina y el Caribe,p_score,-0.48468802840191,Lineal 1953–1957
+hambruna,B,Asia,p_score,22.9137722136228,Lineal 1953–1957
+hambruna,B,Europa,p_score,-1.24686378408826,Lineal 1953–1957
+hambruna,B,Oceanía,p_score,-1.61339031759623,Lineal 1953–1957
+hambruna,B,Mundo,p_score,13.5790593481356,Lineal 1953–1957
+hambruna,B,Mundo sin China,p_score,0.062974641027455,Lineal 1953–1957
+hambruna,B,China,p_score,58.5086942960959,Lineal 1953–1957
+hambruna,B,África,d_e0_medio,0.587929638754808,Lineal 1953–1957
+hambruna,B,América del Norte,d_e0_medio,0.0610030006057703,Lineal 1953–1957
+hambruna,B,América Latina y el Caribe,d_e0_medio,0.093188069918521,Lineal 1953–1957
+hambruna,B,Asia,d_e0_medio,-5.08438008441091,Lineal 1953–1957
+hambruna,B,Europa,d_e0_medio,-0.0614484684803784,Lineal 1953–1957
+hambruna,B,Oceanía,d_e0_medio,0.124211245030835,Lineal 1953–1957
+hambruna,B,Mundo,d_e0_medio,-3.26924240053012,Lineal 1953–1957
+hambruna,B,Mundo sin China,d_e0_medio,-0.0760107518804934,Lineal 1953–1957
+hambruna,B,China,d_e0_medio,-11.8245126196778,Lineal 1953–1957
+hambruna,B,África,d_e0_peor,0.515590899097234,Lineal 1953–1957
+hambruna,B,América del Norte,d_e0_peor,-0.0921444641268039,Lineal 1953–1957
+hambruna,B,América Latina y el Caribe,d_e0_peor,0.0746578111930134,Lineal 1953–1957
+hambruna,B,Asia,d_e0_peor,-7.17056216126364,Lineal 1953–1957
+hambruna,B,Europa,d_e0_peor,-0.0760191030439472,Lineal 1953–1957
+hambruna,B,Oceanía,d_e0_peor,-0.0577793956159241,Lineal 1953–1957
+hambruna,B,Mundo,d_e0_peor,-4.72036536046878,Lineal 1953–1957
+hambruna,B,Mundo sin China,d_e0_peor,-0.11117700214497,Lineal 1953–1957
+hambruna,B,China,d_e0_peor,-16.4239727194343,Lineal 1953–1957
+hambruna,C,África,exceso,-1336570.71813231,Media 1955–1957
+hambruna,C,América del Norte,exceso,-206003.591288071,Media 1955–1957
+hambruna,C,América Latina y el Caribe,exceso,-1032860.87958927,Media 1955–1957
+hambruna,C,Asia,exceso,10189566.5125096,Media 1955–1957
+hambruna,C,Europa,exceso,-1959475.51339155,Media 1955–1957
+hambruna,C,Oceanía,exceso,-33180.6929695834,Media 1955–1957
+hambruna,C,Mundo,exceso,5621475.11713886,Media 1955–1957
+hambruna,C,Mundo sin China,exceso,-9597760.6449388,Media 1955–1957
+hambruna,C,China,exceso,15219235.7620776,Media 1955–1957
+hambruna,C,África,p_score,-6.35543682790584,Media 1955–1957
+hambruna,C,América del Norte,p_score,-3.70939332401567,Media 1955–1957
+hambruna,C,América Latina y el Caribe,p_score,-10.6351150672109,Media 1955–1957
+hambruna,C,Asia,p_score,10.8926942289662,Media 1955–1957
+hambruna,C,Europa,p_score,-10.1594689055369,Media 1955–1957
+hambruna,C,Oceanía,p_score,-6.55060481866442,Media 1955–1957
+hambruna,C,Mundo,p_score,3.75680694732515,Media 1955–1957
+hambruna,C,Mundo sin China,p_score,-8.36432968599838,Media 1955–1957
+hambruna,C,China,p_score,43.623040675451,Media 1955–1957
+hambruna,C,África,d_e0_medio,1.63722497608959,Media 1955–1957
+hambruna,C,América del Norte,d_e0_medio,0.636436457262676,Media 1955–1957
+hambruna,C,América Latina y el Caribe,d_e0_medio,2.41619151226851,Media 1955–1957
+hambruna,C,Asia,d_e0_medio,-2.48062869165016,Media 1955–1957
+hambruna,C,Europa,d_e0_medio,2.22715665264015,Media 1955–1957
+hambruna,C,Oceanía,d_e0_medio,1.38371898498412,Media 1955–1957
+hambruna,C,Mundo,d_e0_medio,-0.95186551370201,Media 1955–1957
+hambruna,C,Mundo sin China,d_e0_medio,2.13027368588246,Media 1955–1957
+hambruna,C,China,d_e0_medio,-9.20161671414494,Media 1955–1957
+hambruna,C,África,d_e0_peor,1.37098211231436,Media 1955–1957
+hambruna,C,América del Norte,d_e0_peor,0.4838823214603,Media 1955–1957
+hambruna,C,América Latina y el Caribe,d_e0_peor,1.83732459231877,Media 1955–1957
+hambruna,C,Asia,d_e0_peor,-4.56218348405118,Media 1955–1957
+hambruna,C,Europa,d_e0_peor,1.74851715895939,Media 1955–1957
+hambruna,C,Oceanía,d_e0_peor,0.897994476700049,Media 1955–1957
+hambruna,C,Mundo,d_e0_peor,-2.39654649769207,Media 1955–1957
+hambruna,C,Mundo sin China,d_e0_peor,1.6764454709098,Media 1955–1957
+hambruna,C,China,d_e0_peor,-13.7963189228749,Media 1955–1957
+hambruna,D,África,exceso,-335579.110654336,Lineal 1950–1958
+hambruna,D,América del Norte,exceso,36190.5399960093,Lineal 1950–1958
+hambruna,D,América Latina y el Caribe,exceso,-4312.07341547497,Lineal 1950–1958
+hambruna,D,Asia,exceso,19704494.4909577,Lineal 1950–1958
+hambruna,D,Europa,exceso,111912.310292617,Lineal 1950–1958
+hambruna,D,Oceanía,exceso,10078.3570108262,Lineal 1950–1958
+hambruna,D,Mundo,exceso,19522784.5141873,Lineal 1950–1958
+hambruna,D,Mundo sin China,exceso,792164.321113587,Lineal 1950–1958
+hambruna,D,China,exceso,18730620.1930738,Lineal 1950–1958
+hambruna,D,África,p_score,-1.67543600394817,Lineal 1950–1958
+hambruna,D,América del Norte,p_score,0.681378439985482,Lineal 1950–1958
+hambruna,D,América Latina y el Caribe,p_score,-0.049659676683429,Lineal 1950–1958
+hambruna,D,Asia,p_score,23.4493476946321,Lineal 1950–1958
+hambruna,D,Europa,p_score,0.650055947509674,Lineal 1950–1958
+hambruna,D,Oceanía,p_score,2.17548401095251,Lineal 1950–1958
+hambruna,D,Mundo,p_score,14.3832178479587,Lineal 1950–1958
+hambruna,D,Mundo sin China,p_score,0.759095126244291,Lineal 1950–1958
+hambruna,D,China,p_score,59.6959860554127,Lineal 1950–1958
+hambruna,D,África,d_e0_medio,0.425450211933973,Lineal 1950–1958
+hambruna,D,América del Norte,d_e0_medio,-0.139947029879124,Lineal 1950–1958
+hambruna,D,América Latina y el Caribe,d_e0_medio,-0.00136005997108886,Lineal 1950–1958
+hambruna,D,Asia,d_e0_medio,-5.16673873109227,Lineal 1950–1958
+hambruna,D,Europa,d_e0_medio,-0.30792857302932,Lineal 1950–1958
+hambruna,D,Oceanía,d_e0_medio,-0.405498293705989,Lineal 1950–1958
+hambruna,D,Mundo,d_e0_medio,-3.40245664646666,Lineal 1950–1958
+hambruna,D,Mundo sin China,d_e0_medio,-0.206547098183189,Lineal 1950–1958
+hambruna,D,China,d_e0_medio,-12.005624425657,Lineal 1950–1958
+hambruna,D,África,d_e0_peor,0.354784459181978,Lineal 1950–1958
+hambruna,D,América del Norte,d_e0_peor,-0.293179581323699,Lineal 1950–1958
+hambruna,D,América Latina y el Caribe,d_e0_peor,-0.00627888747647631,Lineal 1950–1958
+hambruna,D,Asia,d_e0_peor,-7.25416001052528,Lineal 1950–1958
+hambruna,D,Europa,d_e0_peor,-0.36640847061463,Lineal 1950–1958
+hambruna,D,Oceanía,d_e0_peor,-0.468005127586295,Lineal 1950–1958
+hambruna,D,Mundo,d_e0_peor,-4.85374861632948,Lineal 1950–1958
+hambruna,D,Mundo sin China,d_e0_peor,-0.278383118038512,Lineal 1950–1958
+hambruna,D,China,d_e0_peor,-16.6059991157176,Lineal 1950–1958
+hambruna,E,África,exceso,-17090.5065734349,Interpolación 1950–1957 + 1963–1966
+hambruna,E,América del Norte,exceso,-91827.6173694292,Interpolación 1950–1957 + 1963–1966
+hambruna,E,América Latina y el Caribe,exceso,-45786.9829530194,Interpolación 1950–1957 + 1963–1966
+hambruna,E,Asia,exceso,16706683.9974301,Interpolación 1950–1957 + 1963–1966
+hambruna,E,Europa,exceso,-545490.896466807,Interpolación 1950–1957 + 1963–1966
+hambruna,E,Oceanía,exceso,-11247.965696857,Interpolación 1950–1957 + 1963–1966
+hambruna,E,Mundo,exceso,15995240.0283705,Interpolación 1950–1957 + 1963–1966
+hambruna,E,Mundo sin China,exceso,-2038967.61248428,Interpolación 1950–1957 + 1963–1966
+hambruna,E,China,exceso,18034207.6408548,Interpolación 1950–1957 + 1963–1966
+hambruna,E,África,p_score,-0.0867059915018743,Interpolación 1950–1957 + 1963–1966
+hambruna,E,América del Norte,p_score,-1.68819709248624,Interpolación 1950–1957 + 1963–1966
+hambruna,E,América Latina y el Caribe,p_score,-0.52479577626159,Interpolación 1950–1957 + 1963–1966
+hambruna,E,Asia,p_score,19.1969413707481,Interpolación 1950–1957 + 1963–1966
+hambruna,E,Europa,p_score,-3.05200467530517,Interpolación 1950–1957 + 1963–1966
+hambruna,E,Oceanía,p_score,-2.32110180295913,Interpolación 1950–1957 + 1963–1966
+hambruna,E,Mundo,p_score,11.4858310785891,Interpolación 1950–1957 + 1963–1966
+hambruna,E,Mundo sin China,p_score,-1.9022433289378,Interpolación 1950–1957 + 1963–1966
+hambruna,E,China,p_score,56.2284601436594,Interpolación 1950–1957 + 1963–1966
+hambruna,E,África,d_e0_medio,-0.0196815625744572,Interpolación 1950–1957 + 1963–1966
+hambruna,E,América del Norte,d_e0_medio,0.280369083234054,Interpolación 1950–1957 + 1963–1966
+hambruna,E,América Latina y el Caribe,d_e0_medio,0.130596653565038,Interpolación 1950–1957 + 1963–1966
+hambruna,E,Asia,d_e0_medio,-4.28798840819783,Interpolación 1950–1957 + 1963–1966
+hambruna,E,Europa,d_e0_medio,0.531445095688213,Interpolación 1950–1957 + 1963–1966
+hambruna,E,Oceanía,d_e0_medio,0.33795307286294,Interpolación 1950–1957 + 1963–1966
+hambruna,E,Mundo,d_e0_medio,-2.75179759901353,Interpolación 1950–1957 + 1963–1966
+hambruna,E,Mundo sin China,d_e0_medio,0.453862530289461,Interpolación 1950–1957 + 1963–1966
+hambruna,E,China,d_e0_medio,-11.2635080649867,Interpolación 1950–1957 + 1963–1966
+hambruna,E,África,d_e0_peor,-0.0881971877221375,Interpolación 1950–1957 + 1963–1966
+hambruna,E,América del Norte,d_e0_peor,0.12743240719594,Interpolación 1950–1957 + 1963–1966
+hambruna,E,América Latina y el Caribe,d_e0_peor,0.119351382457914,Interpolación 1950–1957 + 1963–1966
+hambruna,E,Asia,d_e0_peor,-6.37179392501142,Interpolación 1950–1957 + 1963–1966
+hambruna,E,Europa,d_e0_peor,0.522615707880931,Interpolación 1950–1957 + 1963–1966
+hambruna,E,Oceanía,d_e0_peor,0.173269073218108,Interpolación 1950–1957 + 1963–1966
+hambruna,E,Mundo,d_e0_peor,-4.19971873050866,Interpolación 1950–1957 + 1963–1966
+hambruna,E,Mundo sin China,d_e0_peor,0.423970459296932,Interpolación 1950–1957 + 1963–1966
+hambruna,E,China,d_e0_peor,-15.8595740420067,Interpolación 1950–1957 + 1963–1966
